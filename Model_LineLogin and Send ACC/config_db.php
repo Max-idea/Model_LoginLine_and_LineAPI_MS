@@ -3,7 +3,7 @@ session_start();
 //orderID = เลขออเดอร์ | orederItemID = เลขออเดอร์ | product_name = ชื่อสินค้า
 function getDBConnection()
 {
-    $host = '127.0.0.1';
+    $host = '';
     $username = 'up0pykdpcofgq';
     $password = 'bggssjm1cg4b';
     $database = 'dbnqpjg8oxxuyj';
